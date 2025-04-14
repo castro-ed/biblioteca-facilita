@@ -4,7 +4,7 @@ Este é um sistema simples de gerenciamento de biblioteca desenvolvido em Larave
 
 ## Requisitos
 
-- PHP 8.3+
+- PHP 8.2+
 - Composer
 - MySQL
 - Node.js e npm (para compilação do frontend)
